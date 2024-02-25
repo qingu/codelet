@@ -1,4 +1,7 @@
 *.o
 *.mod
 *.exe
+*.so
 a.out
+build/
+.ipynb_checkpoints/
