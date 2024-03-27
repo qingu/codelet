@@ -1,0 +1,6 @@
+PROGRAM batest 
+ INTEGER X(5), I 
+ DO I=1, 5 
+ PRINT *, BADDRESS(X(I)) 
+ END DO 
+END 
